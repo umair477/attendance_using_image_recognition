@@ -1,0 +1,3 @@
+0 Coke
+1 Heroine
+2 Normal
